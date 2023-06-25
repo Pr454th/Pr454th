@@ -8,9 +8,8 @@ I'm an IT student passionate about web development and software engineering. I l
 | --- | --- |
 | [LinkedIn](https://www.linkedin.com/in/prasath-karthiban/) | [LeetCode](https://leetcode.com/Prasath_k/) |
 
-## Skills
+## Languages and Tools
 
-| Skill | Icon |
 | --- | --- |
 | HTML | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white) |
 | CSS | ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white) |
@@ -29,6 +28,6 @@ I'm an IT student passionate about web development and software engineering. I l
 
 ## About Me
 
-I'm an IT student with a passion for web development and software engineering. I enjoy working with HTML, CSS, and JavaScript to build responsive and user-friendly web applications. My Java skills allow me to develop robust backend systems, while my experience with frameworks like React, Angular, and Next.js enables me to create dynamic and interactive web experiences. I also have experience in web scraping using Python's Scrapy framework and have worked with Flask for building lightweight web applications. Additionally, I'm familiar with Bootstrap and Tailwind CSS for creating beautiful and responsive UI designs.
+I'm an IT student with a passion for web development and software engineering. I enjoy working with HTML, CSS, and JavaScript to build responsive and user-friendly web applications. My experience with frameworks like React, Angular, and Next.js enables me to create dynamic and interactive web experiences. I also have experience in web scraping using Python's Scrapy framework and have worked with Flask for building lightweight web applications. Additionally, I'm familiar with Bootstrap and Tailwind CSS for creating beautiful and responsive UI designs.
 
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to chat about technology and coding!
