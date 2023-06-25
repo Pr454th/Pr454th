@@ -10,6 +10,7 @@ I'm an IT student passionate about web development and software engineering. I l
 
 ## Languages and Tools
 
+|Languages and Tools||Icon|
 | --- | --- |
 | HTML | ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white) |
 | CSS | ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white) |
