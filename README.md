@@ -4,12 +4,6 @@ I'm an IT student passionate about web development and software engineering. I l
 
 ## Connect with Me
 
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin) | ![LeetCode](https://img.shields.io/badge/LeetCode-Solve-green?style=flat&logo=leetcode) |
-| --- | --- |
-| [LinkedIn](https://www.linkedin.com/in/prasath-karthiban/) | [LeetCode](https://leetcode.com/Prasath_k/) |
-
-## Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prasath-karthiban/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
