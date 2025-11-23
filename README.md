@@ -1,16 +1,7 @@
 
 ![github-header-image(3)](https://github.com/Pr454th/Pr454th/assets/93435120/8ad19e48-c275-4b13-8d64-f96f8ad2c0d9)
 
-I'm an IT student with a passion for web development and software engineering. I enjoy working with HTML, CSS, and JavaScript to build responsive and user-friendly web applications.
-
-🔭 I’m currently learning Next JS
-
-👨‍💻 Check out some of my projects:
-1. MERN: [Artistic Hub](https://artistic-hub.vercel.app/)
-2. Firebase NextJS: [Stealth Chat](https://stealth-chat.vercel.app/)
-3. MongoDB NextJS: [Word Wander](https://word-wander-five.vercel.app/)
-
-💬 Ask me about react, flask and node js.
+I'm an IT student with a passion for web development and software engineering.
 
 📫 How to reach me: **prasathkarthiban1999@gmail.com**
 
